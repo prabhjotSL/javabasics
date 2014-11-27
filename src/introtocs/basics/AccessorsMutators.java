@@ -1,3 +1,5 @@
+package introtocs.basics;
+
 import java.awt.Rectangle;
 
 public class AccessorsMutators {
